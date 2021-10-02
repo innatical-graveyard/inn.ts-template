@@ -1,5 +1,5 @@
 {
-  "name": "layers-desktop",
+  "name": "inn.ts-template",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
