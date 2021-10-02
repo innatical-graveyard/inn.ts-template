@@ -259,10 +259,10 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@innatical/inn.ts@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@innatical/inn.ts/-/inn.ts-1.0.6.tgz#7d19cbf073ec15dbd9280221a709ea59f2902b9d"
-  integrity sha512-BZxgfKUQyuz8xuTKuJFtf7q9c8Xs2XBVw4tgxT2f+HA0SFiWL9NKClLsldP2QPA38UloVEyYHVsgFNP7Wx+M3g==
+"@innatical/inn.ts@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@innatical/inn.ts/-/inn.ts-1.0.7.tgz#b4ad3cdeda1a89f10132b03107d06ac216bd1979"
+  integrity sha512-wdiEPZZ5vml6ANoiczuQXg0nUzVSN+JKlT/Gycg1p45XKIQKVbT+mnAWViMnA9tGxa9AlS5GOWmf78uymfpssw==
   dependencies:
     "@nodelib/fs.walk" "^1.2.8"
 
@@ -743,9 +743,9 @@ nanoid@^3.1.25:
   integrity sha512-gSu9VZ2HtmoKYe/lmyPFES5nknFrHa+/DT9muUFWFMi6Jh9E1I7bkvlQ8xxf1Kos9pi9o8lBnIOkatMhKX/YUw==
 
 node-releases@^1.1.76:
-  version "1.1.76"
-  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.76.tgz#df245b062b0cafbd5282ab6792f7dccc2d97f36e"
-  integrity sha512-9/IECtNr8dXNmPWmFXepT0/7o5eolGesHUa3mtr0KlgnCvnZxwh2qensKL42JJY2vQKC3nIBXetFAqR+PW1CmA==
+  version "1.1.77"
+  resolved "https://registry.yarnpkg.com/node-releases/-/node-releases-1.1.77.tgz#50b0cfede855dd374e7585bf228ff34e57c1c32e"
+  integrity sha512-rB1DUFUNAN4Gn9keO2K1efO35IDK7yKHCdCaIMvFO7yUYmmZYeDjnGKle26G4rwj+LKRQpjyUUvMkPglwGCYNQ==
 
 normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
