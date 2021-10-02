@@ -5,5 +5,5 @@ A template for making Inn.ts apps quick.
 ## Quick Start
 
 ```sh
-npx degit inn.ts-template <app_name>
+npx degit innatical/inn.ts-template <app_name>
 ```
